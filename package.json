@@ -1,0 +1,18 @@
+{
+  "name": "@norniras/prettier-config",
+  "version": "1.0.0",
+  "main": "./prettier-config.json",
+  "author": "Jevgeni Glazunov",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NornirAS/prettier-config.git"
+  },
+  "homepage": "https://github.com/NornirAS/prettier-config#README.md",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.8.1"
+  },
+  "peerDependencies": {
+    "prettier": "^2.8.1"
+  }
+}
